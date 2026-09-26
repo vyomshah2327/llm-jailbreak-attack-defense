@@ -1,0 +1,4 @@
+Attack Type,Success Rate Without Defense (%),Success Rate With Defense (%),Improvement (pp)
+GCG,19.333333333333332,0.0,19.333333333333332
+PAIR,53.66,0.0,53.66
+prompt,88.66666666666667,0.0,88.66666666666667

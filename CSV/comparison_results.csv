@@ -1,0 +1,10 @@
+Attack Type,Model,Attack Success Rate (ASR) (%),Average Harm Score (AHS),Defense Block Rate (DBR) (%)
+GCG,llama-3.1-8b-instant,6.0,1.42,94.0
+GCG,meta-llama_llama-4-maverick-17b-128e-instruct,26.0,2.82,74.0
+GCG,qwen_qwen3-32b,26.0,2.82,74.0
+PAIR,llama-3.1-8b-instant,46.34,4.24,53.66
+PAIR,meta-llama_llama-4-maverick-17b-128e-instruct,34.15,3.44,65.85
+PAIR,qwen_qwen3-32b,79.27,6.55,20.73
+prompt,with_random_search_llama-3.1-8b-instant,99.0,7.93,1.0
+prompt,with_random_search_meta-llama_llama-4-maverick-17b-128e-instruct,99.0,7.93,1.0
+prompt,with_random_search_qwen_qwen3-32b,68.0,5.76,32.0

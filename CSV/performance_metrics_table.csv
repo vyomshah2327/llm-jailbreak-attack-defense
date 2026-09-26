@@ -1,0 +1,4 @@
+Metric,Without Defense,With Defense,Improvement
+Attack Success Rate (ASR),53.89%,0.00%,53.89pp
+Average Harm Score (AHS),6.08,0.00,6.08 pts
+Defense Block Rate (DBR),N/A,100.00%,100.00%

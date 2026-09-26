@@ -1,0 +1,7 @@
+Metric,Attack,Defense,Improvement
+Attack Success Rate (ASR),30.00%,0.00%,30.00%
+Average Harm Score,6.08,0.00,6.08
+LlamaGuard Unsafe Rate,97.00%,0.00%,97.00%
+Defense Block Rate,N/A,100.00%,N/A
+CI Lower (95%),21.02%,0.00%,N/A
+CI Upper (95%),38.98%,0.00%,N/A
